@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="CurrencyConverter.MainPage">
+
+    <VerticalStackLayout Spacing="25" Padding="30,50">
+        <Label Text="Currency Converter"
+               FontSize="32"
+               HorizontalOptions="Center" />
+        <!-- Amount Entry -->
+        <Entry x:Name="amountEntry" 
+               Placeholder="Enter amount" 
+               Keyboard="Numeric" 
+               HorizontalOptions="FillAndExpand"/>
+
+        <!-- From Currency Picker -->
+        <Picker x:Name="fromCurrencyPicker" 
+                Title="From Currency" 
+                HorizontalOptions="FillAndExpand"/>
+
+        <!-- To Currency Picker -->
+        <Picker x:Name="toCurrencyPicker" 
+                Title="To Currency" 
+                HorizontalOptions="FillAndExpand"/>
+
+        <Button Text="Convert" Clicked="OnConvertClicked" HorizontalOptions="FillAndExpand"/>
+
+
+        <!-- Response Container -->
+        <Frame BackgroundColor="LightGray" CornerRadius="10" Padding="20" HasShadow="True">
+            <Label x:Name="resultLabel"
+                   Text="Conversion result will be displayed here."
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   TextColor="Black"
+                   FontSize="16" />
+        </Frame>
+    </VerticalStackLayout>
+</ContentPage>
