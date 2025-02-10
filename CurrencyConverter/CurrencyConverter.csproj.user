@@ -4,6 +4,18 @@
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net8.0-windows10.0.19041.0</ActiveDebugFramework>
     <ActiveDebugProfile>Windows Machine</ActiveDebugProfile>
+    <Source>C:\Users\rihaan.meher\Downloads\CurrencyConverter.png</Source>
+    <SmallTileSource>C:\Users\rihaan.meher\Downloads\CurrencyConverter.png</SmallTileSource>
+    <MediumTileSource>C:\Users\rihaan.meher\Downloads\CurrencyConverter.png</MediumTileSource>
+    <WideTileSource>C:\Users\rihaan.meher\Downloads\CurrencyConverter.png</WideTileSource>
+    <LargeTileSource>C:\Users\rihaan.meher\Downloads\CurrencyConverter.png</LargeTileSource>
+    <AppIconSource>C:\Users\rihaan.meher\Downloads\CurrencyConverter.png</AppIconSource>
+    <SplashScreenSource>C:\Users\rihaan.meher\Downloads\CurrencyConverter.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\rihaan.meher\Downloads\CurrencyConverter.png</PackageLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <_LastSelectedProfileId>MSIX-win10-x64.pubxml</_LastSelectedProfileId>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
   </PropertyGroup>
   <ItemGroup>
     <None Update="App.xaml">

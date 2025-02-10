@@ -13,7 +13,7 @@
   <Properties>
     <DisplayName>CurrencyConverter</DisplayName>
     <PublisherDisplayName>Rihaan Meher</PublisherDisplayName>
-    <Logo>$placeholder$.png</Logo>
+    <Logo>Resources\AppIcon\$placeholder$.png</Logo>
   </Properties>
 
   <Dependencies>
@@ -30,11 +30,17 @@
       <uap:VisualElements
         DisplayName="Currency Converter"
         Description="A simple, easy to use currency converter app made by sharktide"
-        Square150x150Logo="$placeholder$.png"
-        Square44x44Logo="$placeholder$.png"
-        BackgroundColor="transparent">
-        <uap:DefaultTile Square71x71Logo="$placeholder$.png" Wide310x150Logo="$placeholder$.png" Square310x310Logo="$placeholder$.png" />
-        <uap:SplashScreen Image="$placeholder$.png" />
+        Square150x150Logo="Resources\AppIcon\$placeholder$.png"
+        Square44x44Logo="Resources\AppIcon\$placeholder$.png"
+        BackgroundColor="black">
+        <uap:DefaultTile Square71x71Logo="Resources\AppIcon\$placeholder$.png" Wide310x150Logo="Resources\AppIcon\$placeholder$.png" Square310x310Logo="Resources\AppIcon\$placeholder$.png"  ShortName="CurrencyConverter">
+          <uap:ShowNameOnTiles>
+            <uap:ShowOn Tile="square310x310Logo"/>
+            <uap:ShowOn Tile="wide310x150Logo"/>
+            <uap:ShowOn Tile="square150x150Logo"/>
+          </uap:ShowNameOnTiles>
+        </uap:DefaultTile >
+        <uap:SplashScreen Image="Resources\AppIcon\$placeholder$.png" />
       </uap:VisualElements>
     </Application>
   </Applications>

@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
+
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             x:Class="CurrencyConverter.MainPage">
+             x:Class="CurrencyConverter.MainPage"
+             Background="LightBlue">
 
     <VerticalStackLayout Spacing="25" Padding="30,50">
         <Label Text="Currency Converter"
@@ -15,12 +17,14 @@
 
         <!-- From Currency Picker -->
         <Picker x:Name="fromCurrencyPicker" 
-                Title="From Currency" 
+                Title="From Currency"
+                TitleColor="Black"
                 HorizontalOptions="FillAndExpand"/>
 
         <!-- To Currency Picker -->
         <Picker x:Name="toCurrencyPicker" 
-                Title="To Currency" 
+                Title="To Currency"
+                TitleColor="Black"
                 HorizontalOptions="FillAndExpand"/>
 
         <Button Text="Convert" Clicked="OnConvertClicked" HorizontalOptions="FillAndExpand"/>

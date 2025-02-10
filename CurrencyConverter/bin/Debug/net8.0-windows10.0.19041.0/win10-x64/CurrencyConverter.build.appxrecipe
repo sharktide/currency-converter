@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
-    <PackageIdentityName>com.companyname.currencyconverter</PackageIdentityName>
-    <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
+    <PackageIdentityName>sharktidecurrencyconverter</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Rihaan.Meher</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\rihaan.meher\Documents\Visual Studio\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>

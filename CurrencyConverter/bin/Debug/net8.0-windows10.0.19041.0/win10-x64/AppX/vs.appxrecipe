@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
-    <PackageIdentityName>com.companyname.currencyconverter</PackageIdentityName>
-    <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
+    <PackageIdentityName>sharktidecurrencyconverter</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Rihaan.Meher</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\rihaan.meher\Documents\Visual Studio\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,24 +18,24 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\rihaan.meher\Documents\Visual Studio\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>B1500078E77F660B3343489A475A71848E4D07F4AB3DB80A61CA3F1EA9AD2788</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>com.companyname.currencyconverter_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>com.companyname.currencyconverter_9zz4h110yvjzm!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>com.companyname.currencyconverter</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=User Name</RegisteredPackagePublisher>
+    <RegisteredManifestChecksum>B907FE63A862E052C8F823BACF689F03868DD64F20771CFC2EDE6E2620A17DB3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>sharktidecurrencyconverter_1.0.0.1_x64__h915v8qcax62g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>sharktidecurrencyconverter_h915v8qcax62g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>sharktidecurrencyconverter</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Rihaan.Meher</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\rihaan.meher\Documents\Visual Studio\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-02-09T18:57:06.289</Modified>
+      <Modified>2025-02-10T15:14:59.614</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\rihaan.meher\Documents\Visual Studio\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-02-09T18:13:09.000</Modified>
+      <Modified>2025-02-09T22:58:32.013</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rihaan.meher\Documents\Visual Studio\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CurrencyConverter.runtimeconfig.json">
       <PackagePath>CurrencyConverter.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rihaan.meher\Documents\Visual Studio\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CurrencyConverter.dll">
       <PackagePath>CurrencyConverter.dll</PackagePath>
-      <Modified>2025-02-09T18:57:04.897</Modified>
+      <Modified>2025-02-10T15:14:59.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rihaan.meher\Documents\Visual Studio\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>CurrencyConverter.exe</PackagePath>
-      <Modified>2025-02-09T18:57:04.970</Modified>
+      <Modified>2025-02-10T15:14:59.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rihaan.meher\Documents\Visual Studio\CurrencyConverter\CurrencyConverter\CurrencyConverter\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -287,7 +287,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rihaan.meher\Documents\Visual Studio\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CurrencyConverter.deps.json">
       <PackagePath>CurrencyConverter.deps.json</PackagePath>
-      <Modified>2025-02-09T18:13:06.989</Modified>
+      <Modified>2025-02-09T22:58:31.022</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rihaan.meher\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
