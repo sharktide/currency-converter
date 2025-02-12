@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9/9Fib6x5+A=",
+  "dgSpecHash": "fs3rLcheWCA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rihaan.meher\\Documents\\Visual Studio\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj",
+  "projectFilePath": "C:\\Users\\rihaan.meher\\Documents\\GitHub\\currency-converter\\CurrencyConverter\\CurrencyConverter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rihaan.meher\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
@@ -112,15 +112,15 @@
     "C:\\Users\\rihaan.meher\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.9.0.1\\xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "C:\\Users\\rihaan.meher\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.2.1\\xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
     "C:\\Users\\rihaan.meher\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.android.runtime.34.android-x64\\34.0.145\\microsoft.android.runtime.34.android-x64.34.0.145.nupkg.sha512",
-    "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.android.runtime.34.android-arm64\\34.0.145\\microsoft.android.runtime.34.android-arm64.34.0.145.nupkg.sha512",
     "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.android.ref.34\\34.0.145\\microsoft.android.ref.34.34.0.145.nupkg.sha512",
     "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.android.runtime.34.android-arm\\34.0.145\\microsoft.android.runtime.34.android-arm.34.0.145.nupkg.sha512",
+    "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.android.runtime.34.android-arm64\\34.0.145\\microsoft.android.runtime.34.android-arm64.34.0.145.nupkg.sha512",
     "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.android.runtime.34.android-x86\\34.0.145\\microsoft.android.runtime.34.android-x86.34.0.145.nupkg.sha512",
+    "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.android.runtime.34.android-x64\\34.0.145\\microsoft.android.runtime.34.android-x64.34.0.145.nupkg.sha512",
     "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.ios.ref.net8.0_18.0\\18.0.8316\\microsoft.ios.ref.net8.0_18.0.18.0.8316.nupkg.sha512",
     "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.ios.runtime.iossimulator-x64.net8.0_18.0\\18.0.8316\\microsoft.ios.runtime.iossimulator-x64.net8.0_18.0.18.0.8316.nupkg.sha512",
-    "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-x64.net8.0_18.0\\18.0.8316\\microsoft.maccatalyst.runtime.maccatalyst-x64.net8.0_18.0.18.0.8316.nupkg.sha512",
     "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.maccatalyst.ref.net8.0_18.0\\18.0.8316\\microsoft.maccatalyst.ref.net8.0_18.0.18.0.8316.nupkg.sha512",
+    "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-x64.net8.0_18.0\\18.0.8316\\microsoft.maccatalyst.runtime.maccatalyst-x64.net8.0_18.0.18.0.8316.nupkg.sha512",
     "C:\\Users\\rihaan.meher\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
   ],
   "logs": []

@@ -33167,11 +33167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rihaan.meher\\Documents\\Visual Studio\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj",
+      "projectUniqueName": "C:\\Users\\rihaan.meher\\Documents\\GitHub\\currency-converter\\CurrencyConverter\\CurrencyConverter.csproj",
       "projectName": "CurrencyConverter",
-      "projectPath": "C:\\Users\\rihaan.meher\\Documents\\Visual Studio\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj",
+      "projectPath": "C:\\Users\\rihaan.meher\\Documents\\GitHub\\currency-converter\\CurrencyConverter\\CurrencyConverter.csproj",
       "packagesPath": "C:\\Users\\rihaan.meher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rihaan.meher\\Documents\\Visual Studio\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter\\obj\\",
+      "outputPath": "C:\\Users\\rihaan.meher\\Documents\\GitHub\\currency-converter\\CurrencyConverter\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
